@@ -1,0 +1,189 @@
+body{
+  font-weight: 400;
+  font-family: "Montserrat";
+  margin: 0;
+
+}
+
+em{
+  color: white;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+h3{
+  font-size: 2rem;
+
+}
+
+p{
+  color: #8f8f8f;
+  font-size: 1.2rem;
+}
+
+.download-button{
+  margin: 10px 10px 10px 0;
+  font-weight: 100;
+  font-size: 1rem;
+}
+
+.features{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.feature-images{
+  color: #0072ee;
+  /*font-size: 4rem;*/
+  padding-bottom: 10px;
+}
+
+.feature-images:hover{
+  color: #fbd100;
+}
+
+.feature-items{
+  padding: 50px 100px 50px 100px;
+}
+
+.navbar{
+  margin: 0 10%;
+  padding-top: 20px;
+}
+
+.navbar-brand{
+  color: #fbd100;
+  padding-left: 5px;
+  font-size: 1.5rem;
+}
+
+.navbar-item{
+  margin: 0 5px;
+  padding: 5px;
+}
+
+.pro-pic{
+  width: 500px;
+  margin: 10%;
+  transform: rotate(20deg);
+
+}
+
+
+
+/* Title Section */
+.title-highlighter {
+  color: #fbd100;
+}
+
+.title-header{
+  color: white;
+}
+
+.title-container{
+  background-color: #0873f5;
+  overflow-x: auto;
+}
+
+.title{
+  margin: 5% 10%;
+}
+
+
+
+
+/* Testimonials Section */
+
+.name-with-image{
+  text-align: center;
+}
+
+
+.testimonials-container{
+  background-color: #0873f5;
+  padding: 15% 7% 15% 7%;
+  margin: 0;
+  overflow-x: auto;
+}
+
+.testimonial-image{
+  border-radius: 50%;
+  width: 10%;
+  margin: 10px;
+}
+
+.testimonial-text{
+  color: white;
+  font-size: 3rem;
+  padding: 0 15% 1% 15%;
+  text-align: center;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 7%;
+
+}
+
+.card{
+  padding: 0;
+  margin: 20px;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.price {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.pricing-header {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Montserrat", sans-serrif;
+  font-weight: 700;
+}
+
+.pricing-header-description {
+  text-align: center;
+}
+
+
+#cta, #footer {
+  background-color: #0873f5;
+}
+
+/* Call to action */
+
+.cta-content {
+  padding: 7%;
+  text-align: center;
+}
+
+.cta-header {
+  padding-bottom: 10px;
+  color: #fbd100;
+}
+
+/* Footer */
+
+.copyright-text {
+  color: white;
+  font-size: 15px;
+
+}
+
+.footer-content {
+  text-align: center;
+  padding: 2%;
+
+}
